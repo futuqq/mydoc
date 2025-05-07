@@ -1,11 +1,12 @@
-* 入门
 
-  * [快速开始](zh-cn/quickstart.md)
-  * [多页文档](zh-cn/more-pages.md)
+* [首页](/)
 
 
-* 配置
-  * [配置项](zh-cn/configuration.md)
-  * [中文:cn:](/)
-  
-* [:cn:](/zh-cn/)
+* 导航
+
+  * [国家标准](/gb.md)
+  * [行业标准](/hb.md)
+  * [地方标准](/db.md)
+
+* 关于
+  * [联系我们](/contact.md)
