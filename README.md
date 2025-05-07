@@ -5,7 +5,7 @@
 
 本文档主要包含国家标准、行业标准、地方标准等。
 
- - [国家标准](/gb/index_gb)
+ - [国家标准](/gb/index_gb.md)
  - [行业标准](/hb/index_hb)
  - [地方标准](/db/index_db)
  - [团体标准](/tb/index_tb)
