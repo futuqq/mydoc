@@ -9,6 +9,7 @@
  - [行业标准](/hb/index_hb)
  - [地方标准](/db/index_db)
  - [团体标准](/tb/index_tb)
+ - [规范性文件](/wj/index)
 
 
 ## 文档说明
